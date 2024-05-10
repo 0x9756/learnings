@@ -1,1 +1,1 @@
-With great power, comes great responsibility.
+Knowledge is power, and with great power, comes great responsibility.

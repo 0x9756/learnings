@@ -1,4 +1,4 @@
-# Networks and Siwtching
+# Networks and Switching
 ## Network Protocols and the Physical Layer
 ### Network Protocols
 -A system of rules that allows two or more entities of a communication system to transmit information via any variation of a physical quantity.
@@ -8,14 +8,14 @@
 -Protocols may be implemented by hardware, software, or a combination of both.
 
 #### Basic Requirements
--Data formats of data exchange
--Address formats for data exchange
--Address mapping (i.e. a logical IP address to an Ethernet MAC address)
--Routing
--Detection of transmission errors
--Acknowledgements (of correct reception of packets)
--Loss of information -timeouts and retries
--Direction of information flow
--Sequence control
--Flow control (when the sender is transmitting faster than equipment can process)
--Queueing (buffers)
+-Data formats of data exchange<br>
+-Address formats for data exchange<br>
+-Address mapping (i.e. a logical IP address to an Ethernet MAC address)<br>
+-Routing<br>
+-Detection of transmission errors<br>
+-Acknowledgements (of correct reception of packets)<br>
+-Loss of information -timeouts and retries<br>
+-Direction of information flow<br>
+-Sequence control<br>
+-Flow control (when the sender is transmitting faster than equipment can process)<br>
+-Queueing (buffers)<br>

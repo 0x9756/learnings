@@ -1,1 +1,1 @@
-Knowledge is power, and with power, comes responsibility.
+Information is power, and with power, comes responsibility.
